@@ -37,5 +37,6 @@ t1.setText (data ());
         String str1=String.valueOf (p.getMinute ());
         String str2=str+":"+str1;
         return str2;
+        /*ghhv*/
     }
 }
